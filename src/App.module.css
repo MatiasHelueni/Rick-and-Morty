@@ -1,0 +1,16 @@
+.nav{
+   background-color: rgba(0, 0, 0, 0.5);
+   padding: 1em;
+   display: flex;
+   flex-direction: row;
+   justify-content: end;
+   margin-bottom: 1em;
+}
+
+.App{
+   min-height: 100vh;
+   padding: 25px;
+   background-image: url('https://wallpapers.com/images/featured/rick-and-morty-cool-t3ynu5ly9m7jq6e2.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}

@@ -1,0 +1,32 @@
+.Nav {
+}
+
+.button1 {
+  background-color: #c6de41; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1px;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+    background-color: #73de41;
+    color: gray;
+}
+
+.button2 {
+  background-color: #c6de41; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
